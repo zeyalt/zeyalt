@@ -1,6 +1,6 @@
 ## Hello and welcome! 👋
 
-- Thanks for visiting my GitHub page! My name is Zeya and I am a practising data scientist with the Singapore Police Force. I am a former Police officer and I took the leap of faith with a mid-career switch into Data Science.   
+- Thanks for visiting my GitHub page! My name is Zeya and I am a practising data scientist with the Singapore Police Force. I am a former Police officer and I took the leap of faith in 2020 with a mid-career switch into Data Science.   
 
 - When I first started my Data Science journey in 2018, I had little background in statistics, computer science or programming. My learning curve was steep, so I made deliberate efforts to simplify complex data science concepts. That's how I found myself learning most effectively. 
 
