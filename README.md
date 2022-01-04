@@ -16,7 +16,8 @@
 
 1. [Machine Learning](#machine-learning)
 2. [Python Tips](#python-tips)
-3. [Career](#career)
+3. [Personal Projects](#personal-projects)
+4. [Career](#career) 
 
 ___
 <a name="machine-learning"></a>
@@ -35,11 +36,16 @@ ___
 | How to Load Excel Files with Hidden Rows and Columns into Pandas | [:link:](https://towardsdatascience.com/how-to-load-excel-files-with-hidden-rows-and-columns-into-pandas-19d445fa5c47) | [:link:](https://github.com/zeyalt/data-science-articles/blob/master/Load%20Excel%20Files%20as%20Pandas%20DataFrames%20without%20Hidden%20Rows%20and%C2%A0Columns.ipynb) |
 
 ___
+<a name="personal-projects"></a>
+### Personal Projects
+| Title | Article | Repository |
+| --- | --- | --- |
+| MyHealthStats: Visualising My Health Data | [:link:](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6883972194758729728) | [:link:](https://github.com/zeyalt/MyHealthStats) |
+___
+
 <a name="career"></a>
 ### Career
 | Title | Article | Repository |
 | --- | --- | --- |
 | What Made Me Switch Careers From Policing To Data Science | [:link:](https://medium.com/codex/why-made-me-switch-careers-from-policing-to-data-science-d07cc797ff1a) | - |
 | 7 Simple Tips from My Mid-Career Switch into Data Science | [:link:](https://towardsdatascience.com/6-simple-tips-for-mid-career-switchers-a5902e645cf8) | - |
-
-
