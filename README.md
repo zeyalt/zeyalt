@@ -41,6 +41,7 @@ ___
 | Title | Article | Repository |
 | --- | --- | --- |
 | MyHealthStats: Visualising My Health Data | [:link:](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6883972194758729728) | [:link:](https://github.com/zeyalt/MyHealthStats) |
+| How I Built My Own Real-Time Parking Availability Predictive Model | [:link:](https://towardsdatascience.com/how-i-built-my-own-real-time-parking-availability-predictive-model-31332e1b7747?source=friends_link&sk=f46426c23c938ed05f996925c4b225a0) | [:link:](https://github.com/zeyalt/ParkWhere) |
 ___
 
 <a name="career"></a>
