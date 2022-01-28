@@ -34,6 +34,7 @@ ___
 | Title | Article | Repository |
 | --- | --- | --- |
 | How to Load Excel Files with Hidden Rows and Columns into Pandas | [:link:](https://towardsdatascience.com/how-to-load-excel-files-with-hidden-rows-and-columns-into-pandas-19d445fa5c47) | [:link:](https://github.com/zeyalt/data-science-articles/blob/master/Load%20Excel%20Files%20as%20Pandas%20DataFrames%20without%20Hidden%20Rows%20and%C2%A0Columns.ipynb) |
+| 7 Lesser-Known Python Tips to Write Elegant Code | [:link:](https://betterprogramming.pub/7-lesser-known-python-tips-to-write-elegant-code-fa06476e3959?source=friends_link&sk=2093f2a6680d86727cdbc60485c0c35c) | - |
 
 ___
 <a name="personal-projects"></a>
