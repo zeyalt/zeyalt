@@ -26,15 +26,16 @@ ___
 | --- | --- | --- |
 | Evaluating Classification Models: Why Accuracy Is Not Enough | [:link:](https://medium.com/mlearning-ai/evaluating-classification-models-why-accuracy-is-not-enough-abf3d9c93a69) | - |
 | Precision and Recall Made Simple | [:link:](https://towardsdatascience.com/precision-and-recall-made-simple-afb5e098970f) | - |
-| Essential Things You Need to Know About F1-Score | [:link:](https://towardsdatascience.com/essential-things-you-need-to-know-about-f1-score-dbd973bf1a3) | [:link:](https://github.com/zeyalt/data-science-articles/blob/master/visualise_means_3d.py) |
+| Essential Things You Need to Know About F1-Score | [:link:](https://towardsdatascience.com/essential-things-you-need-to-know-about-f1-score-dbd973bf1a3) | [:link:](https://github.com/zeyalt/My-Articles/blob/master/Machine%20Learning/Essential%20Things%20You%20Need%20to%20Know%20About%20F1-Score/visualise_means_3d.py) |
 
 ___
 <a name="python-tips"></a>
 ### Python Tips 
 | Title | Article | Repository |
 | --- | --- | --- |
-| How to Load Excel Files with Hidden Rows and Columns into Pandas | [:link:](https://towardsdatascience.com/how-to-load-excel-files-with-hidden-rows-and-columns-into-pandas-19d445fa5c47) | [:link:](https://github.com/zeyalt/data-science-articles/blob/master/Load%20Excel%20Files%20as%20Pandas%20DataFrames%20without%20Hidden%20Rows%20and%C2%A0Columns.ipynb) |
+| How to Load Excel Files with Hidden Rows and Columns into Pandas | [:link:](https://towardsdatascience.com/how-to-load-excel-files-with-hidden-rows-and-columns-into-pandas-19d445fa5c47) | [:link:](https://github.com/zeyalt/My-Articles/tree/master/Python%20Tips/How%20to%20Load%20Excel%20Files%20with%20Hidden%20Rows%20and%20Columns%20into%20Pandas) |
 | 7 Lesser-Known Python Tips to Write Elegant Code | [:link:](https://betterprogramming.pub/7-lesser-known-python-tips-to-write-elegant-code-fa06476e3959?source=friends_link&sk=2093f2a6680d86727cdbc60485c0c35c) | - |
+| A Quick and Easy Guide to Conditional Formatting in Pandas | - | [:link:](https://github.com/zeyalt/My-Articles/tree/master/Python%20Tips/A%20Quick%20and%20Easy%20Guide%20to%20Conditional%20Formatting%20in%C2%A0Pandas) |
 
 ___
 <a name="personal-projects"></a>
