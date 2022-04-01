@@ -35,7 +35,8 @@ ___
 | --- | --- | --- |
 | How to Load Excel Files with Hidden Rows and Columns into Pandas | [:link:](https://towardsdatascience.com/how-to-load-excel-files-with-hidden-rows-and-columns-into-pandas-19d445fa5c47) | [:link:](https://github.com/zeyalt/My-Articles/tree/master/Python%20Tips/How%20to%20Load%20Excel%20Files%20with%20Hidden%20Rows%20and%20Columns%20into%20Pandas) |
 | 7 Lesser-Known Python Tips to Write Elegant Code | [:link:](https://betterprogramming.pub/7-lesser-known-python-tips-to-write-elegant-code-fa06476e3959?source=friends_link&sk=2093f2a6680d86727cdbc60485c0c35c) | - |
-| A Quick and Easy Guide to Conditional Formatting in Pandas | - | [:link:](https://github.com/zeyalt/My-Articles/tree/master/Python%20Tips/A%20Quick%20and%20Easy%20Guide%20to%20Conditional%20Formatting%20in%C2%A0Pandas) |
+| A Quick and Easy Guide to Conditional Formatting in Pandas | [:link:](https://towardsdatascience.com/a-quick-and-easy-guide-to-conditional-formatting-in-pandas-8783035071ee) | [:link:](https://github.com/zeyalt/My-Articles/tree/master/Python%20Tips/A%20Quick%20and%20Easy%20Guide%20to%20Conditional%20Formatting%20in%C2%A0Pandas) |
+| Demystifying Look-Ahead and Look-Behind in Regex | [:link:](https://betterprogramming.pub/demystifying-look-ahead-and-look-behind-in-regex-4a604f99fb8c) | [:link:](https://github.com/zeyalt/My-Articles/tree/master/Python%20Tips/Demystifying%20Look-ahead%20and%20Look-behind%20in%20Regular%20Expressions) |
 
 ___
 <a name="personal-projects"></a>
