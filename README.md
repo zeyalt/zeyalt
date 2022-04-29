@@ -37,14 +37,16 @@ ___
 | 7 Lesser-Known Python Tips to Write Elegant Code | [:link:](https://betterprogramming.pub/7-lesser-known-python-tips-to-write-elegant-code-fa06476e3959?source=friends_link&sk=2093f2a6680d86727cdbc60485c0c35c) | - |
 | A Quick and Easy Guide to Conditional Formatting in Pandas | [:link:](https://towardsdatascience.com/a-quick-and-easy-guide-to-conditional-formatting-in-pandas-8783035071ee) | [:link:](https://github.com/zeyalt/My-Articles/tree/master/Python%20Tips/A%20Quick%20and%20Easy%20Guide%20to%20Conditional%20Formatting%20in%C2%A0Pandas) |
 | Demystifying Look-Ahead and Look-Behind in Regex | [:link:](https://betterprogramming.pub/demystifying-look-ahead-and-look-behind-in-regex-4a604f99fb8c) | [:link:](https://github.com/zeyalt/My-Articles/tree/master/Python%20Tips/Demystifying%20Look-ahead%20and%20Look-behind%20in%20Regular%20Expressions) |
+| A Simple Trick To Load Multiple Excel Worksheets in Pandas | [:link:](https://betterprogramming.pub/demystifying-look-ahead-and-look-behind-in-regex-4a604f99fb8c) | [:link:](https://github.com/zeyalt/My-Articles/tree/master/Python%20Tips/A%20Simple%20Trick%20To%20Load%20Multiple%20Excel%20Worksheets%20in%C2%A0Pandas) |
 
 ___
 <a name="personal-projects"></a>
 ### Personal Projects
-| Title | Article | Repository |
-| --- | --- | --- |
-| MyHealthStats: Visualising My Health Data | [:link:](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6883972194758729728) | [:link:](https://github.com/zeyalt/MyHealthStats) |
-| How I Built My Own Real-Time Parking Availability Predictive Model | [:link:](https://towardsdatascience.com/how-i-built-my-own-real-time-parking-availability-predictive-model-31332e1b7747?source=friends_link&sk=f46426c23c938ed05f996925c4b225a0) | [:link:](https://github.com/zeyalt/ParkWhere) |
+| Title | Article | Repository | Web App |
+| --- | --- | --- | --- |
+| MyHealthStats: Visualising My Health Data | [:link:](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6883972194758729728) | [:link:](https://github.com/zeyalt/MyHealthStats) | [:link:](https://share.streamlit.io/zeyalt/myhealthstats/app.py) |
+| How I Built My Own Real-Time Parking Availability Predictive Model | [:link:](https://towardsdatascience.com/how-i-built-my-own-real-time-parking-availability-predictive-model-31332e1b7747?source=friends_link&sk=f46426c23c938ed05f996925c4b225a0) | [:link:](https://github.com/zeyalt/ParkWhere) | [:link:](https://share.streamlit.io/zeyalt/parkwhere/app.py) |
+| Singapore's COVID-19 Story Through Key Phrases From PM Lee's Speeches | [:link:](https://www.linkedin.com/posts/zeyalt_datascience-nlp-singapore-activity-6919829953010163712-S1yZ?utm_source=linkedin_share&utm_medium=member_desktop_web) | [:link:](https://github.com/zeyalt/SG-Covid19-Story) | [:link:](https://share.streamlit.io/zeyalt/sg-covid19-story/app.py) |
 ___
 
 <a name="career"></a>
