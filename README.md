@@ -16,8 +16,9 @@
 
 1. [Machine Learning](#machine-learning)
 2. [Python Tips](#python-tips)
-3. [Personal Projects](#personal-projects)
-4. [Career](#career) 
+3. [Data Visualisation](#data-viz)
+4. [Personal Projects](#personal-projects)
+5. [Career](#career) 
 
 ___
 <a name="machine-learning"></a>
@@ -38,6 +39,14 @@ ___
 | A Quick and Easy Guide to Conditional Formatting in Pandas | [:link:](https://towardsdatascience.com/a-quick-and-easy-guide-to-conditional-formatting-in-pandas-8783035071ee) | [:link:](https://github.com/zeyalt/My-Articles/tree/master/Python%20Tips/A%20Quick%20and%20Easy%20Guide%20to%20Conditional%20Formatting%20in%C2%A0Pandas) |
 | Demystifying Look-Ahead and Look-Behind in Regex | [:link:](https://betterprogramming.pub/demystifying-look-ahead-and-look-behind-in-regex-4a604f99fb8c) | [:link:](https://github.com/zeyalt/My-Articles/tree/master/Python%20Tips/Demystifying%20Look-ahead%20and%20Look-behind%20in%20Regular%20Expressions) |
 | A Simple Trick To Load Multiple Excel Worksheets in Pandas | [:link:](https://towardsdatascience.com/a-simple-trick-to-load-multiple-excel-worksheets-in-pandas-3fae4124345b) | [:link:](https://github.com/zeyalt/My-Articles/tree/master/Python%20Tips/A%20Simple%20Trick%20To%20Load%20Multiple%20Excel%20Worksheets%20in%C2%A0Pandas) |
+
+___
+<a name="data-viz"></a>
+### Data Visualisation
+| Title | Post | Repository | 
+| --- | --- | --- | 
+| EPL 2021/22 Season in 30 Seconds Using Bar Chart Race | [:link:](https://www.linkedin.com/posts/zeyalt_python-barchartrace-datavisualisation-activity-6933361311980347392-8AfE?utm_source=linkedin_share&utm_medium=member_desktop_web) | [:link:](https://github.com/zeyalt/EPL-21-22-Bar-Chart-Race) | 
+
 
 ___
 <a name="personal-projects"></a>
