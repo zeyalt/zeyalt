@@ -16,9 +16,8 @@
 
 1. [Machine Learning](#machine-learning)
 2. [Python Tips](#python-tips)
-3. [Data Visualisation](#data-viz)
-4. [Personal Projects](#personal-projects)
-5. [Career](#career) 
+3. [Personal Projects](#personal-projects)
+4. [Career](#career) 
 
 ___
 <a name="machine-learning"></a>
@@ -41,14 +40,6 @@ ___
 | A Simple Trick To Load Multiple Excel Worksheets in Pandas | [:link:](https://towardsdatascience.com/a-simple-trick-to-load-multiple-excel-worksheets-in-pandas-3fae4124345b) | [:link:](https://github.com/zeyalt/My-Articles/tree/master/Python%20Tips/A%20Simple%20Trick%20To%20Load%20Multiple%20Excel%20Worksheets%20in%C2%A0Pandas) |
 
 ___
-<a name="data-viz"></a>
-### Data Visualisation
-| Title | Post | Repository | 
-| --- | --- | --- | 
-| EPL 2021/22 Season in 30 Seconds Using Bar Chart Race | [:link:](https://www.linkedin.com/posts/zeyalt_python-barchartrace-datavisualisation-activity-6933361311980347392-8AfE?utm_source=linkedin_share&utm_medium=member_desktop_web) | [:link:](https://github.com/zeyalt/EPL-21-22-Bar-Chart-Race) | 
-
-
-___
 <a name="personal-projects"></a>
 ### Personal Projects
 | Title | Article | Repository | Web App |
@@ -56,6 +47,8 @@ ___
 | MyHealthStats: Visualising My Health Data | [:link:](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6883972194758729728) | [:link:](https://github.com/zeyalt/MyHealthStats) | [:link:](https://share.streamlit.io/zeyalt/myhealthstats/app.py) |
 | How I Built My Own Real-Time Parking Availability Predictive Model | [:link:](https://towardsdatascience.com/how-i-built-my-own-real-time-parking-availability-predictive-model-31332e1b7747?source=friends_link&sk=f46426c23c938ed05f996925c4b225a0) | [:link:](https://github.com/zeyalt/ParkWhere) | [:link:](https://share.streamlit.io/zeyalt/parkwhere/app.py) |
 | Singapore's COVID-19 Story Through Key Phrases From PM Lee's Speeches | [:link:](https://www.linkedin.com/posts/zeyalt_datascience-nlp-singapore-activity-6919829953010163712-S1yZ?utm_source=linkedin_share&utm_medium=member_desktop_web) | [:link:](https://github.com/zeyalt/SG-Covid19-Story) | [:link:](https://share.streamlit.io/zeyalt/sg-covid19-story/app.py) |
+| Visualising EPL 2021/22 Season in 30 Seconds Using Bar Chart Race | [:link:](https://www.linkedin.com/posts/zeyalt_python-barchartrace-datavisualisation-activity-6933361311980347392-8AfE?utm_source=linkedin_share&utm_medium=member_desktop_web) | [:link:](https://github.com/zeyalt/EPL-21-22-Bar-Chart-Race) | --- |
+| Visualising EPL 2021/22 Final-Day Title Decider Using Bar Chart Race | [:link:](https://www.linkedin.com/posts/zeyalt_python-barchartrace-datavisualisation-activity-6934699161137078272-M5XT?utm_source=linkedin_share&utm_medium=member_desktop_web) | [:link:](https://github.com/zeyalt/EPL-21-22-Bar-Chart-Race) | --- |
 ___
 
 <a name="career"></a>
