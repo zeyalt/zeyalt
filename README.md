@@ -50,6 +50,8 @@ ___
 | Singapore's COVID-19 Story Through Key Phrases From PM Lee's Speeches | [:link:](https://www.linkedin.com/posts/zeyalt_datascience-nlp-singapore-activity-6919829953010163712-S1yZ?utm_source=linkedin_share&utm_medium=member_desktop_web) | [:link:](https://github.com/zeyalt/SG-Covid19-Story) | [:link:](https://share.streamlit.io/zeyalt/sg-covid19-story/app.py) |
 | Visualising EPL 2021/22 Season in 30 Seconds Using Bar Chart Race | [:link:](https://www.linkedin.com/posts/zeyalt_python-barchartrace-datavisualisation-activity-6933361311980347392-8AfE?utm_source=linkedin_share&utm_medium=member_desktop_web) | [:link:](https://github.com/zeyalt/EPL-21-22-Bar-Chart-Race) | --- |
 | Visualising EPL 2021/22 Final-Day Title Decider Using Bar Chart Race | [:link:](https://www.linkedin.com/posts/zeyalt_python-barchartrace-datavisualisation-activity-6934699161137078272-M5XT?utm_source=linkedin_share&utm_medium=member_desktop_web) | [:link:](https://github.com/zeyalt/EPL-21-22-Bar-Chart-Race) | --- |
+| SalaryViz: Visualising My Salary Data (Private) | --- | [:link:](https://github.com/zeyalt/SalaryViz) | [:link:](https://public.tableau.com/app/profile/zeya.lt/viz/SalaryViz_16610159011390/MainDashboard) |
+| PromoViz: Analysing Promotions in SPF (Private) | --- | [:link:](https://github.com/zeyalt/PromoViz) | [:link:](https://public.tableau.com/app/profile/zeya.lt/viz/PromoViz/PromoViz) |
 ___
 
 <a name="career"></a>
