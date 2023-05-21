@@ -1,6 +1,6 @@
 ## Hello and welcome! 👋
 
-- Thanks for visiting my GitHub page! My name is Zeya and I am a practising data scientist with the Singapore Police Force. I am a former Police officer and I took the leap of faith in 2020 with a mid-career switch into Data Science.   
+- Thanks for visiting my GitHub page! My name is Zeya and I am a data scientist in Grab. I was a former Police officer and I took the leap of faith in 2020 with a mid-career switch into Data Science.   
 
 - When I first started my Data Science journey in 2018, I had little background in statistics, computer science or programming. My learning curve was steep, so I made deliberate efforts to simplify complex data science concepts. That's how I found myself learning most effectively. 
 
@@ -52,6 +52,7 @@ ___
 | Visualising EPL 2021/22 Final-Day Title Decider Using Bar Chart Race | [:link:](https://www.linkedin.com/posts/zeyalt_python-barchartrace-datavisualisation-activity-6934699161137078272-M5XT?utm_source=linkedin_share&utm_medium=member_desktop_web) | [:link:](https://github.com/zeyalt/EPL-21-22-Bar-Chart-Race) | --- |
 | SalaryViz: Visualising My Salary Data (Private) | --- | [:link:](https://github.com/zeyalt/SalaryViz) | [:link:](https://public.tableau.com/app/profile/zeya.lt/viz/SalaryViz_16610159011390/MainDashboard) |
 | PromoViz: Analysing Promotions in SPF (Private) | --- | [:link:](https://github.com/zeyalt/PromoViz) | [:link:](https://public.tableau.com/app/profile/zeya.lt/viz/PromoViz/PromoViz) |
+| Visualising P1 Registration Data (Public) | --- | [:link:](https://github.com/zeyalt/p1-registration-analysis) | [:link:](https://public.tableau.com/app/profile/zeya.lt/viz/P1RegistrationAnalysis/Overview#1) |
 ___
 
 <a name="career"></a>
