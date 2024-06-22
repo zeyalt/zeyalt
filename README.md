@@ -52,7 +52,7 @@ ___
 | Visualising EPL 2021/22 Final-Day Title Decider Using Bar Chart Race | [:link:](https://www.linkedin.com/posts/zeyalt_python-barchartrace-datavisualisation-activity-6934699161137078272-M5XT?utm_source=linkedin_share&utm_medium=member_desktop_web) | [:link:](https://github.com/zeyalt/EPL-21-22-Bar-Chart-Race) | --- |
 | SalaryViz: Visualising My Salary Data (Private) | --- | [:link:](https://github.com/zeyalt/SalaryViz) | [:link:](https://public.tableau.com/app/profile/zeya.lt/viz/SalaryViz_16610159011390/MainDashboard) |
 | PromoViz: Analysing Promotions in SPF (Private) | --- | [:link:](https://github.com/zeyalt/PromoViz) | [:link:](https://public.tableau.com/app/profile/zeya.lt/viz/PromoViz/PromoViz) |
-| Visualising P1 Registration Data (Public) | --- | [:link:](https://github.com/zeyalt/p1-registration-analysis/tree/master) | [:link:](https://public.tableau.com/app/profile/zeya.lt/viz/P1RegistrationAnalysis/Overview#1) [:link:](https://app.powerbi.com/view?r=eyJrIjoiMzA3Njk5MjYtMmRmOS00NjlkLWE5NWItYzE1MjkyZTUzNjVmIiwidCI6IjBmYjkwN2NiLTQwNDgtNDA0My05YTMyLTk2NTc2Nzg0MWYyMyIsImMiOjEwfQ%3D%3D)|
+| Visualising P1 Registration Data (Public) | --- | [:link:](https://github.com/zeyalt/p1-registration-analysis/tree/master) | [:link:](https://app.powerbi.com/view?r=eyJrIjoiMzA3Njk5MjYtMmRmOS00NjlkLWE5NWItYzE1MjkyZTUzNjVmIiwidCI6IjBmYjkwN2NiLTQwNDgtNDA0My05YTMyLTk2NTc2Nzg0MWYyMyIsImMiOjEwfQ%3D%3D)|
 ___
 
 <a name="career"></a>
