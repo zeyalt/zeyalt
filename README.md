@@ -53,6 +53,7 @@ ___
 | SalaryViz: Visualising My Salary Data (Private) | --- | [:link:](https://github.com/zeyalt/SalaryViz) | [:link:](https://public.tableau.com/app/profile/zeya.lt/viz/SalaryViz_16610159011390/MainDashboard) |
 | PromoViz: Analysing Promotions in SPF (Private) | --- | [:link:](https://github.com/zeyalt/PromoViz) | [:link:](https://public.tableau.com/app/profile/zeya.lt/viz/PromoViz/PromoViz) |
 | Visualising P1 Registration Data (Public) | --- | [:link:](https://github.com/zeyalt/p1-registration-analysis/tree/master) | [:link:](https://app.powerbi.com/view?r=eyJrIjoiMzA3Njk5MjYtMmRmOS00NjlkLWE5NWItYzE1MjkyZTUzNjVmIiwidCI6IjBmYjkwN2NiLTQwNDgtNDA0My05YTMyLTk2NTc2Nzg0MWYyMyIsImMiOjEwfQ%3D%3D)|
+| HandyBot: My Virtual Handyman for Home Appliances | --- | [:link:](https://github.com/zeyalt/HandyBot/tree/main) | --- |
 ___
 
 <a name="career"></a>
