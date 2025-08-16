@@ -1,10 +1,10 @@
 ## Hello and welcome! 👋
 
-- Thanks for visiting my GitHub page! My name is Zeya and I am a data scientist in Grab. I was a former Police officer and I took the leap of faith in 2020 with a mid-career switch into Data Science.   
+- Thanks for visiting my GitHub page! My name is Zeya and I am a senior data scientist in Grab. I was a former Police officer and I took the leap of faith in 2018 with a mid-career switch into Data Science.   
 
 - When I first started my Data Science journey in 2018, I had little background in statistics, computer science or programming. My learning curve was steep, so I made deliberate efforts to simplify complex data science concepts. That's how I found myself learning most effectively. 
 
-- Having gone through that process, I'm inspired to share my knowledge and help others learn Data Science better. In my articles, I aim to break down concepts into simple, bite-sized chunks with clear  explanations. I will also share useful code snippets that may help you improve your coding skills. 
+- Having gone through that process, I'm inspired to share my knowledge and help others learn Data Science better. In my articles, I aim to break down concepts into simple, bite-sized chunks with clear explanations. I will also share useful code snippets that may help you improve your coding skills. 
 
 - This GitHub portfolio is as much an effort towards helping people learn Data Science better as it is my own endeavour to document my Data Science journey.
 
@@ -54,6 +54,8 @@ ___
 | PromoViz: Analysing Promotions in SPF (Private) | --- | [:link:](https://github.com/zeyalt/PromoViz) | [:link:](https://public.tableau.com/app/profile/zeya.lt/viz/PromoViz/PromoViz) |
 | Visualising P1 Registration Data (Public) | --- | [:link:](https://github.com/zeyalt/p1-registration-analysis/tree/master) | [:link:](https://app.powerbi.com/view?r=eyJrIjoiMzA3Njk5MjYtMmRmOS00NjlkLWE5NWItYzE1MjkyZTUzNjVmIiwidCI6IjBmYjkwN2NiLTQwNDgtNDA0My05YTMyLTk2NTc2Nzg0MWYyMyIsImMiOjEwfQ%3D%3D)|
 | HandyBot: My Virtual Handyman for Home Appliances | --- | [:link:](https://github.com/zeyalt/HandyBot/tree/main) | --- |
+| AskParliamentSG: Empowering Voters Through Gen AI | [:link:](https://zeyalt.medium.com/askparliamentsg-empowering-voters-through-gen-ai-825d6ab44c08) | [:link:](https://www.kaggle.com/code/zeyalt/askparliamentsg-empowering-voters-through-gen-ai?scriptVersionId=235096715) | --- |
+| Famigo: Your AI Assistant for Weekend Family Fun in Singapore | --- | [:link:](https://github.com/zeyalt/Famigo) | --- |
 ___
 
 <a name="career"></a>
